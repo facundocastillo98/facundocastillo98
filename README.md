@@ -12,7 +12,7 @@ Soy un futuro desarrollador orientado al diseño y la experiencia de usuario. Me
 - HTML5 | CSS3 | JavaScript | Bootstrap  
 
 🧰 **Herramientas**
-- Git & GitHub | VS Code | Figma | Postman | npm  
+- Git & GitHub | VS Code | Figma 
 
 ---
 
