@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Facundo Castillo!
 
-💻 ** Futuro Desarrollador Web | Apasionado por la tecnología**
+💻 **Futuro Desarrollador Web | Apasionado por la tecnología**
 
 Soy un futuro desarrollador orientado al diseño y la experiencia de usuario. Me gusta crear proyectos que combinen una interfaz limpia con una funcionalidad sólida. Siempre busco mejorar mis habilidades y mantenerme al día con las nuevas tendencias del desarrollo web.
 
