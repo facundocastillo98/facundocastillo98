@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Facundo Castillo!
 
-<!--
-**facundocastillo98/facundocastillo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 ** Futuro Desarrollador Web | Apasionado por la tecnología**
 
-Here are some ideas to get you started:
+Soy un futuro desarrollador orientado al diseño y la experiencia de usuario. Me gusta crear proyectos que combinen una interfaz limpia con una funcionalidad sólida. Siempre busco mejorar mis habilidades y mantenerme al día con las nuevas tendencias del desarrollo web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías y herramientas
+
+💡 **Frontend**
+- HTML5 | CSS3 | JavaScript | Bootstrap  
+
+🧰 **Herramientas**
+- Git & GitHub | VS Code | Figma | Postman | npm  
+
+---
+
+## 📈 Estadísticas de GitHub
+
+![Facundo's GitHub stats](https://github-readme-stats.vercel.app/api?username=facundocastillo98&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=facundocastillo98&layout=compact&theme=tokyonight)
+
+---
+
+## 🌱 Actualmente aprendiendo
+
+---
+
+## 📫 Cómo contactarme
+📧 **Email:** ismaelcastilloleites2013@hotmail.com
+💼 **LinkedIn:** [linkedin.com/in/facundocastillo](https://linkedin.com/in/facundocastillo)  
+🌐 **Portafolio:** en desarrollo
+
+---
+
+## ✨ Frase que me inspira
+> “Testing no sirve para nada.”  
+
+---
+
+### 🧩 Un poco más sobre mí
+Cuando no estoy programando, me gusta aprender cosas nuevas, jugar videojuegos y mejorar mis proyectos personales.  
+Me motiva el desafío de convertir ideas en productos reales y funcionales.
+
+---
+
+⭐ *Gracias por visitar mi perfil. ¡No dudes en explorar mis repositorios!*  
